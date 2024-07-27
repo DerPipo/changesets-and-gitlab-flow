@@ -1,15 +1,11 @@
 {
-  "name": "changesets-and-gitlab-flow",
-  "version": "1.0.0",
+  "name": "@derpipo/a",
+  "version": "0.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "workspaces": [
-    "packages/a"
-  ]
+  "description": ""
 }
