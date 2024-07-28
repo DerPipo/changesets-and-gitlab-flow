@@ -1,5 +1,11 @@
 # @derpipo/b
 
+## 1.0.1
+
+### Patch Changes
+
+- 3dfa93e: 🔩 fixes were made
+
 ## 1.0.0
 
 ### Major Changes
