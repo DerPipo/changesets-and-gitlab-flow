@@ -1,5 +1,11 @@
 # @derpipo/b
 
+## 1.0.0-next.2
+
+### Minor Changes
+
+- 35267f2: 🤷 keine ahnung, was ich hier tue
+
 ## 1.0.0-next.1
 
 ### Major Changes
