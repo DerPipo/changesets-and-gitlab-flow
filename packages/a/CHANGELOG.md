@@ -1,5 +1,11 @@
 # @derpipo/a
 
+## 1.0.0-next.2
+
+### Patch Changes
+
+- 35267f2: 🌱 noch ein cooles feature
+
 ## 1.0.0-next.1
 
 ### Major Changes
