@@ -9,6 +9,8 @@ concurrency: ${{ github.workflow }}-${{ github.ref }}
 
 jobs:
   prerelease:
+    permissions:
+        contents: write
     name: Prerelease
     runs-on: ubuntu-latest
     steps:
