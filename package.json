@@ -1,6 +1,9 @@
 {
   "name": "changesets-and-gitlab-flow",
   "version": "1.0.0",
+  "scripts": {
+    "release": "echo 'would release packages here'"
+  },
   "workspaces": [
     "packages/a",
     "packages/b"
