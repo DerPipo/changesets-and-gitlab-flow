@@ -1,5 +1,11 @@
 # @derpipo/a
 
+## 2.0.0-next.1
+
+### Major Changes
+
+- f2ecb33: ❗️❗️❗️ BREAKING CHANGE
+
 ## 1.2.0-next.0
 
 ### Minor Changes
