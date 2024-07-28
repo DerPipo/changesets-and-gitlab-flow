@@ -1,5 +1,11 @@
 # @derpipo/b
 
+## 1.0.0-next.3
+
+### Patch Changes
+
+- c656877: 🥙 wrong emoji?
+
 ## 1.0.0-next.2
 
 ### Minor Changes
