@@ -1,5 +1,21 @@
 # @derpipo/b
 
+## 1.0.0
+
+### Major Changes
+
+- fbf1120: 🌱 Ready to release, baby!
+
+### Minor Changes
+
+- a5875d1: Add installation instructions
+- 35267f2: 🤷 keine ahnung, was ich hier tue
+
+### Patch Changes
+
+- 2b34a2d: ❗️ important change
+- c656877: 🥙 wrong emoji?
+
 ## 1.0.0-next.3
 
 ### Patch Changes
