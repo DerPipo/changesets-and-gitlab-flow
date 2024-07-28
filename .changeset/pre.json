@@ -6,6 +6,7 @@
     "@derpipo/b": "1.0.0"
   },
   "changesets": [
+    "eight-nails-heal",
     "good-hornets-march",
     "strange-horses-shake"
   ]
