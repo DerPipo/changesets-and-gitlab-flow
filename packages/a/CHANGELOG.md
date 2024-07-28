@@ -1,5 +1,11 @@
 # @derpipo/a
 
+## 1.2.0-next.0
+
+### Minor Changes
+
+- 242f239: ✅ you can click 'buy now' now
+
 ## 1.1.0
 
 ### Minor Changes

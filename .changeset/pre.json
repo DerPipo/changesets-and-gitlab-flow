@@ -5,5 +5,8 @@
     "@derpipo/a": "1.0.0",
     "@derpipo/b": "1.0.0"
   },
-  "changesets": []
+  "changesets": [
+    "good-hornets-march",
+    "strange-horses-shake"
+  ]
 }
