@@ -5,8 +5,5 @@
     "@derpipo/a": "0.0.0",
     "@derpipo/b": "0.0.0"
   },
-  "changesets": [
-    "fresh-mangos-breathe",
-    "yellow-tables-return"
-  ]
+  "changesets": []
 }
